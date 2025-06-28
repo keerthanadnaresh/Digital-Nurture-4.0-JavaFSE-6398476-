@@ -1,0 +1,57 @@
+{
+    "sqltools.connections": [
+        {
+            "oracleOptions": {
+                "privilege": "Normal",
+                "thickMode": false,
+                "autoCommit": false,
+                "lowerCase": false,
+                "limitPrefetchRows": false
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1521,
+            "driver": "Oracle",
+            "name": "MyOracleDB",
+            "database": "xe",
+            "username": "Keerthana",
+            "password": "Keerthana@1821"
+        },
+        {
+            "oracleOptions": {
+                "privilege": "Normal",
+                "thickMode": false,
+                "autoCommit": false,
+                "lowerCase": false,
+                "limitPrefetchRows": false
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1521,
+            "driver": "Oracle",
+            "name": "OracleDatabase",
+            "database": "orcl",
+            "username": "KEERTHANA",
+            "password": "KEERTHANA"
+        },
+        {
+            "oracleOptions": {
+                "privilege": "Normal",
+                "thickMode": false,
+                "autoCommit": false,
+                "lowerCase": false,
+                "limitPrefetchRows": false
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1521,
+            "driver": "Oracle",
+            "name": "oracle_local",
+            "database": "XE",
+            "username": "system",
+            "password": "oracle"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
