@@ -53,5 +53,6 @@
         }
     ],
     "sqltools.useNodeRuntime": true,
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic"
 }

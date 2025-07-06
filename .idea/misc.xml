@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/week2/Mockito/MockitoandStubbing/code/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/week2/Mockito/VerifyingInteractions/code/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/week2/TDD_JUnit5/Assertion/code/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/week2/TDD_JUnit5/AAA_Pattern/code/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/week2/TDD_JUnit5/settingup_junit/code/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/week2/SLF4J_Logging/code/demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
